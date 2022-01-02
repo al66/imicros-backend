@@ -1,0 +1,31 @@
+{
+  "name": "imicros-backend",
+  "version": "0.0.1",
+  "description": "Docker build",
+  "scripts": {
+    "start": "moleculer-runner services"
+  },
+  "author": "Andreas.Leinen@imicros.de",
+  "dependencies": {
+    "imicros-gateway": "^0.0.2",
+    "imicros-keys": "^0.1.5",
+    "imicros-users": "^0.0.5",
+    "imicros-groups": "^0.1.2",
+    "imicros-acl": "^0.0.13",
+    "imicros-agents": "^0.0.4",
+    "imicros-minio": "^0.0.9",
+    "imicros-mails": "^0.0.4",
+    "imicros-rules": "^0.0.6",
+    "imicros-templates": "^0.0.6",
+    "imicros-flow": "^0.3.4",
+    "imicros-flow-control": "^0.0.9",
+    "imicros-flow-context": "^0.0.5",
+    "imicros-events": "^0.0.2",
+    "nats": "^2.4.0",
+    "moleculer": "^0.14.18",
+    "moleculer-web": "^0.10.3"
+  },
+  "engines": {
+    "node": ">= 16.13.1"
+  }
+}
