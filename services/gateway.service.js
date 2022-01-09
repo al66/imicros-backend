@@ -227,6 +227,10 @@ module.exports = {
                 }
             },
             {
+                path: "/agents/login",
+                authorization: false
+            },
+            {
                 path: "/upload",
 
                 bodyParsers: {
