@@ -229,6 +229,9 @@ module.exports = {
             {
                 path: "/agents/login",
                 authorization: false,
+                bodyParsers: {
+                    json: true
+                },
                 aliases: {
                     "POST /": "agents.login"
                 }
