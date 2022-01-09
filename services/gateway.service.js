@@ -228,7 +228,10 @@ module.exports = {
             },
             {
                 path: "/agents/login",
-                authorization: false
+                authorization: false,
+                aliases: {
+                    "POST /": "agents.login"
+                }
             },
             {
                 path: "/upload",

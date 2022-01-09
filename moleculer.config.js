@@ -6,7 +6,7 @@ module.exports = {
     // nodeID: "",
 
     logger: true,
-    logLevel: "debug",
+    logLevel: "info",
     logFormatter: "default",
 
     transporter: process.env.TRANSPORTER_NATS, //"nats://nats:4222",
