@@ -21,6 +21,7 @@
     "imicros-flow-control": "^0.0.9",
     "imicros-flow-context": "^0.0.5",
     "imicros-events": "^0.0.2",
+    "imicros-queue": "^0.0.1",
     "nats": "^2.4.0",
     "moleculer": "^0.14.18",
     "moleculer-web": "^0.10.3"
