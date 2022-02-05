@@ -4,6 +4,7 @@ const { Queue } = require("imicros-queue");
 
 module.exports = {
     name: "flow.queue",
+    mixins: [Queue],
     
 	/**
 	 * Service settings
