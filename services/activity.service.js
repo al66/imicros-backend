@@ -13,6 +13,7 @@ module.exports = {
         services: {
             context: "flow.context",
             query: "flow.query",
+            queue: "flow.queue",
             acl: "acl",
             rules: "rules",
             agents: "agents"
