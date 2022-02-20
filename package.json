@@ -18,7 +18,7 @@
     "imicros-rules": "^0.0.6",
     "imicros-templates": "^0.0.6",
     "imicros-flow": "^0.3.7",
-    "imicros-flow-control": "^0.0.11",
+    "imicros-flow-control": "^0.0.12",
     "imicros-flow-context": "^0.0.5",
     "imicros-events": "^0.0.2",
     "imicros-queue": "^0.0.2",
