@@ -1,6 +1,6 @@
 {
   "name": "imicros-backend",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Docker build",
   "scripts": {
     "start": "moleculer-runner services"
@@ -20,7 +20,7 @@
     "imicros-flow": "^0.3.8",
     "imicros-flow-control": "^0.0.12",
     "imicros-flow-context": "^0.0.5",
-    "imicros-flow-map": "^0.0.2",
+    "imicros-flow-map": "^0.0.3",
     "imicros-events": "^0.0.2",
     "imicros-queue": "^0.0.2",
     "nats": "^2.4.0",
