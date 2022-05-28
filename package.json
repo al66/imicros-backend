@@ -1,6 +1,6 @@
 {
   "name": "imicros-backend",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Docker build",
   "scripts": {
     "start": "moleculer-runner services"
@@ -13,7 +13,7 @@
     "imicros-groups": "^0.1.2",
     "imicros-acl": "^0.0.13",
     "imicros-agents": "^0.0.4",
-    "imicros-minio": "^0.0.9",
+    "imicros-minio": "^0.1.0",
     "imicros-mails": "^0.0.4",
     "imicros-rules": "^0.0.6",
     "imicros-templates": "^0.0.6",
