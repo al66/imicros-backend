@@ -1,18 +1,15 @@
 "use strict";
 
-const { Feel } = require("imicros-feel");
+// const { Feel } = require("imicros-feel");
 
 module.exports = {
-    name: "feel",
-    mixins: [Feel],
+    name: "flow.feel",
+    // mixins: [Feel],
     
 	/**
 	 * Service settings
 	 */
     settings: {
-		services: {
-			store: "minio"
-		}
     },
 
 	/**

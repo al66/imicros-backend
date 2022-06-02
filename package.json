@@ -17,6 +17,7 @@
     "imicros-mails": "^0.0.4",
     "imicros-rules": "^0.0.6",
     "imicros-templates": "^0.0.6",
+    "imicros-feel": "^0.0.2",
     "imicros-flow": "^0.3.8",
     "imicros-flow-control": "^0.0.12",
     "imicros-flow-context": "^0.0.5",
